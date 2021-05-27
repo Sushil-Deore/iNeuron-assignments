@@ -1,2 +1,2 @@
 # iNeuron-assignments
-This repository created for iNeuron assignment.
+This repository created for iNeuron assignments.
